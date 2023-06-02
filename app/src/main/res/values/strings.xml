@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemons Wiki</string>
+    <string name="pokemons">Pokemons</string>
+    <string name="berries">Berries</string>
+    <string name="ok">Ok</string>
+    <string name="bad_connetction">Bad internet connection</string>
+    <string name="something_was_wrong">Something was wrong</string>
+    <string name="base_stats">Base stats</string>
+    <string name="kg">kgs</string>
+    <string name="metres">metres</string>
+    <string name="search">Search</string>
+</resources>
